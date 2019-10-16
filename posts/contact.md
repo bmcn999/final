@@ -5,10 +5,8 @@ navTitle: Contact
 tags: post
 ---
 
-<h2>Here's how:</h2>
+## Here's how:
 
-<ul>
-  <li>917 865 5517</li>
-</ul>
+- 1 917 865 5517
 
-<a href="/">Home</a>
+[home](/)

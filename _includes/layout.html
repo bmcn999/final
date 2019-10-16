@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="/css/styles.css" />
     <title>My Blog</title>
   </head>
-  <body>
+  <body class="{{ pageClass }}">
     <nav>
       <ul>
         {%- for post in collections.post -%}
@@ -23,4 +23,5 @@
       {{ content }}
     </div>
   </body>
+  <script src="/js/scripts.js"></script>
 </html>
